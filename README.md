@@ -62,4 +62,5 @@ This is a clean dataset with no missing values.
 
 - The model learns a **strong positive correlation** between experience and salary.
 - It can **accurately predict salaries** for new data points.
-- Example:
+- Example: Input: 5 years of experience
+- Predicted Salary: ≈ ₹75,000
